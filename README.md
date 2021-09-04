@@ -1,8 +1,6 @@
 ### Hi there 
 
-My Name is Abdennour aka Dazai_ , I'm a Student, Penetration Tester and a Self-Learning Developer ...
-
-- I do some CTFs in THM and PicoCTF ,if you wanna join DM me in my Discord ## Dazai__#1182
+My Name is Abdennour aka Dazai_ , I'm a Student, bb hunter and Programmer for automation purposes ...
 
 ### Favorite quote
 
